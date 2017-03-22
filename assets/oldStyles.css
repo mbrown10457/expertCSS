@@ -1,0 +1,25 @@
+body{
+	font-size: 12px;
+	font-family: Menlo;
+}
+h1{
+	font-size: 5em;
+	text-align: center;
+}
+
+p{
+	font-weight: 700;
+	line-height: 1.5;
+	text-align: left;
+}
+span{
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+/*p{
+	width: 50%;
+	border: 2px solid blue;
+	padding: 10px;
+	margin: 100px;
+}*/
